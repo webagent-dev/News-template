@@ -1,14 +1,12 @@
 <div align="center">
-<h3 align="center">Car Dealer website </h3>
+<h3 align="center">News Templates website</h3>
 
   <p align="center">
-      Car Dealer website is fun project create while learning how to code with Htmc/Css and 
-  javascript i used OPP programming paradigm to add a lot of unique features, it a complete project where user can sort and different type car model
-    with sorting capa
+     This is a News template create with Html/Css with a toggle nav button for mobile screen
     <br />
-    <a href="https://car-dealer-site.netlify.app">Live Site</a>
+    <a href="https://news-template.netlify.app/">Live Site</a>
     ·
-    <a href="https://github.com/webagent-dev/car-dealer-site/issues">Report Bug</a>
+    <a href="https://github.com/webagent-dev/News-template/issues">Report Bug</a>
     ·
 
   </p>
@@ -38,7 +36,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -47,10 +44,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
     
-  <img src="https://user-images.githubusercontent.com/78637825/165221861-76d6ea16-591d-43a2-8978-5612e86bacd3.png" alt="page-image" width="100%" height="100%" >
+  <img src="https://user-images.githubusercontent.com/78637825/165231584-1d871ac3-204c-4d5b-88d8-c98aeebf49c9.png" >
   
   
-short details: `webagent-dev`, `Javascript `, `HTML/CSS`, `webagent24@gmail`, `OPP`,
+short details: `webagent-dev`, `HTML/CSS`, `webagent24@gmail`,
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -59,9 +56,6 @@ short details: `webagent-dev`, `Javascript `, `HTML/CSS`, `webagent24@gmail`, `O
 ### Built With
 * [Html]
 * [Css]
-* [Javascript ](https://react-reveal.com/)
-* [OPP](https://reactjs.org/)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -91,7 +85,7 @@ text editor of your choice e.g VsCode
 ## Usage
 
 After run with live server you would have a local version of the live site on your local machine
-_For more examples, please refer to the [Live Site](https://bigmagicmusic.netlify.app/)_
+_For more examples, please refer to the [Live Site](https://news-template.netlify.app)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,11 +97,10 @@ _For more examples, please refer to the [Live Site](https://bigmagicmusic.netlif
 - [ ] Smooth scrolling
 - [ ] display cards
 - [ ] transitions
-- [ ]sorting
-- [ ] Shop
-    - [ ] OPP
+- [ ]Cards
+- [ ] Categories
 
-See the [open issues](https://github.com/webagent-dev/car-dealer-site/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/webagent-dev/News-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -143,4 +136,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 webagent24@gmail.com
 
-Project Link: [https://github.com/webagent-dev/car-dealer-site]()
+Project Link: [https://github.com/webagent-dev/News-template](Live Site)
+![news-template](https://user-images.githubusercontent.com/78637825/165231584-1d871ac3-204c-4d5b-88d8-c98aeebf49c9.png)
